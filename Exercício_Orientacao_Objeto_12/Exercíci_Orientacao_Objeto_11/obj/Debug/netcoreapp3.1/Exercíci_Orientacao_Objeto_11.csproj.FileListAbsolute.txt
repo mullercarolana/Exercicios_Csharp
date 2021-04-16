@@ -1,0 +1,13 @@
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\bin\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.exe
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\bin\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.deps.json
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\bin\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.runtimeconfig.json
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\bin\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.runtimeconfig.dev.json
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\bin\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.dll
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\bin\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.pdb
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\obj\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.csprojAssemblyReference.cache
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\obj\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.AssemblyInfoInputs.cache
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\obj\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.AssemblyInfo.cs
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\obj\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.csproj.CoreCompileInputs.cache
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\obj\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.dll
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\obj\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.pdb
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercíci_Orientacao_Objeto_11\Exercíci_Orientacao_Objeto_11\obj\Debug\netcoreapp3.1\Exercíci_Orientacao_Objeto_11.genruntimeconfig.cache

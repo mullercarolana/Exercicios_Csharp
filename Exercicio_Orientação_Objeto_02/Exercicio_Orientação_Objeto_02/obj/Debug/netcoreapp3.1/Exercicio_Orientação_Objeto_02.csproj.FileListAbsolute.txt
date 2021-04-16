@@ -1,0 +1,13 @@
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\bin\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.exe
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\bin\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.deps.json
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\bin\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.runtimeconfig.json
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\bin\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.runtimeconfig.dev.json
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\bin\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.dll
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\bin\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.pdb
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\obj\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.csprojAssemblyReference.cache
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\obj\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.AssemblyInfoInputs.cache
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\obj\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.AssemblyInfo.cs
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\obj\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.csproj.CoreCompileInputs.cache
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\obj\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.dll
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\obj\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.pdb
+C:\Users\anamu\Desktop\CURSO C#\Exercicio_Orientação_Objeto_02\Exercicio_Orientação_Objeto_02\obj\Debug\netcoreapp3.1\Exercicio_Orientação_Objeto_02.genruntimeconfig.cache

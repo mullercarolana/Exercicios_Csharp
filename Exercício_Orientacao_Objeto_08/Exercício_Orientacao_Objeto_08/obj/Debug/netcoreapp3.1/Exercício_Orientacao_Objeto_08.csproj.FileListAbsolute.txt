@@ -1,0 +1,13 @@
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\bin\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.exe
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\bin\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.deps.json
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\bin\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.runtimeconfig.json
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\bin\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.runtimeconfig.dev.json
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\bin\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.dll
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\bin\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.pdb
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\obj\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.csprojAssemblyReference.cache
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\obj\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.AssemblyInfoInputs.cache
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\obj\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.AssemblyInfo.cs
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\obj\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.csproj.CoreCompileInputs.cache
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\obj\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.dll
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\obj\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.pdb
+C:\Users\Ana Carolina\Desktop\CURSO C#\Exercício_Orientacao_Objeto_08\Exercício_Orientacao_Objeto_08\obj\Debug\netcoreapp3.1\Exercício_Orientacao_Objeto_08.genruntimeconfig.cache
