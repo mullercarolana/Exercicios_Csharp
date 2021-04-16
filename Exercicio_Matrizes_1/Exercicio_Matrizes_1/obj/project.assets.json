@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ana Carolina\\Desktop\\CURSO C#\\Exercicio_Matrizes_1\\Exercicio_Matrizes_1\\Exercicio_Matrizes_1.csproj",
+      "projectUniqueName": "C:\\Users\\Ana Carolina\\Documents\\Curso Csharp\\Exercicio_Matrizes_1\\Exercicio_Matrizes_1\\Exercicio_Matrizes_1.csproj",
       "projectName": "Exercicio_Matrizes_1",
-      "projectPath": "C:\\Users\\Ana Carolina\\Desktop\\CURSO C#\\Exercicio_Matrizes_1\\Exercicio_Matrizes_1\\Exercicio_Matrizes_1.csproj",
+      "projectPath": "C:\\Users\\Ana Carolina\\Documents\\Curso Csharp\\Exercicio_Matrizes_1\\Exercicio_Matrizes_1\\Exercicio_Matrizes_1.csproj",
       "packagesPath": "C:\\Users\\Ana Carolina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ana Carolina\\Desktop\\CURSO C#\\Exercicio_Matrizes_1\\Exercicio_Matrizes_1\\obj\\",
+      "outputPath": "C:\\Users\\Ana Carolina\\Documents\\Curso Csharp\\Exercicio_Matrizes_1\\Exercicio_Matrizes_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
